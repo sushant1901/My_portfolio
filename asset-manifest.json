@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa74288c.css",
+    "main.js": "/static/js/main.ccaf7a2e.js",
+    "static/media/musicplayer.png": "/static/media/musicplayer.29f68eb285150a91ebc9.png",
+    "static/media/foodie.png": "/static/media/foodie.e6e362d6901f3b17d238.png",
+    "static/media/boy1.png": "/static/media/boy1.037917425370ad10decb.png",
+    "static/media/part1.png": "/static/media/part1.0aea1762726e0096d3d2.png",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/resume.pdf": "/static/media/resume.4c8fc2de268c75dcfac3.pdf",
+    "static/media/expressjs.svg": "/static/media/expressjs.4a0d56f0355b2772ac43f023853987d0.svg",
+    "static/media/covid.jpg": "/static/media/covid.10c1e3608b330b364448.jpg",
+    "static/media/LinkTree.png": "/static/media/LinkTree.922e82e27eed670f992b.png",
+    "static/media/collegeLogo.png": "/static/media/collegeLogo.bf7a78e9d4a1920312ac.png",
+    "static/media/node.svg": "/static/media/node.6b7bf9157fd7a9d791c96c0aa30ae6a9.svg",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/react.png": "/static/media/react.abf81a6fadc7825ab8bf.png",
+    "static/media/amazon.svg": "/static/media/amazon.e2de5b0889ecb793e324da2dc1880d81.svg",
+    "index.html": "/index.html",
+    "main.fa74288c.css.map": "/static/css/main.fa74288c.css.map",
+    "main.ccaf7a2e.js.map": "/static/js/main.ccaf7a2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa74288c.css",
+    "static/js/main.ccaf7a2e.js"
+  ]
+}
